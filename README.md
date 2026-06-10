@@ -60,8 +60,8 @@
 
 ## 📫 Связаться со мной
 
-[![Discord](https://img.shields.io/badge/Discord-212.192.156.403-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1188112072697987117)
-[![Telegram](https://img.shields.io/badge/Telegram-@guwit5-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/guwit5)
+[![Discord](https://img.shields.io/badge/Discord-wistorblade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1214218941958979664)
+[![Telegram](https://img.shields.io/badge/Telegram-@w1stom5-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/w1stom)
 [![Email](https://img.shields.io/badge/Email-WillSerfortds@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:WillSerfortds@proton.me)
 
 ## 💡 Интересные факты
