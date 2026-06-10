@@ -20,12 +20,6 @@
 - 🎮 **Интеграции** — расширенный функционал для Discord
 - 🔐 **Безопасность** — защита приватности пользователей
 
-## 📊 GitHub Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunar1sdev2&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunar1sdev2&layout=compact&theme=radical)
-
 ## 🛠️ Навыки
 
 **Frontend:**
